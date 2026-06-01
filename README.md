@@ -34,6 +34,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 
 ### Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -87,7 +90,11 @@
 | **Teilur** | Senior Full Stack Engineer (Contract) | 2026 – Present |
 | **Anomali** | Senior Frontend Engineer | 2018 – 2026 |
 | **Upwork** | Senior Frontend Engineer | 2016 – 2018 |
-| **Xumak** | Frontend Team Lead | 2014 – 2015 |
+| **Barista Ventures** | Frontend Developer | 2015 - 2016 |
+| **Komet Sales (Koronet)** | Frontend Developer | 2015 |
+| **Xumak** | Frontend Team Lead | 2015 |
+| **IEB** | Frontend Developer & Web Designer | 2014 |
+| **SENA** | Multimedia Production Monitor | 2013 – 2014 |
 
 ---
 
