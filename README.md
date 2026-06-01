@@ -2,7 +2,7 @@
 
 # Hi, I'm Alejandra Valencia 👋
 
-### Senior Frontend Engineer, Full Stack · Medellín, Colombia 🇨🇴
+### Senior Frontend and Full Stack Engineer based in Medellín, Colombia 🇨🇴
 
 *12+ years building complex, data-heavy web applications across cybersecurity, e-commerce, and SaaS.*
 
