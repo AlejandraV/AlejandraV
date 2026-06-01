@@ -92,7 +92,7 @@
 | **Upwork** | Senior Frontend Engineer | 2016 – 2018 |
 | **Barista Ventures** | Frontend Developer | 2015 - 2016 |
 | **Komet Sales (Koronet)** | Frontend Developer | 2015 |
-| **Xumak** | Frontend Team Lead | 2015 |
+| **Xumak** | Frontend Team Lead | 2014 - 2015 |
 | **IEB** | Frontend Developer & Web Designer | 2014 |
 | **SENA** | Multimedia Production Monitor | 2013 – 2014 |
 
