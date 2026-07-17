@@ -87,7 +87,7 @@
 
 | Company | Role | Period |
 |---|---|---|
-| **Teilur** | Senior Full Stack Engineer (Contract) | 2026 – Present |
+| **Teilur** | Senior Full Stack Engineer (Contract) | 2026 |
 | **Anomali** | Senior Frontend Engineer | 2018 – 2026 |
 | **Upwork** | Senior Frontend Engineer | 2016 – 2018 |
 | **Barista Ventures** | Frontend Developer | 2015 - 2016 |
