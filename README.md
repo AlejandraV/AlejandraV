@@ -2,7 +2,7 @@
 
 # Hi, I'm Alejandra Valencia 👋
 
-### Senior Frontend and Full Stack Engineer based in Medellín, Colombia 🇨🇴
+### Senior Software Engineer with strong skills in Frontend technologies based in Medellín, Colombia 🇨🇴
 
 *12+ years building complex, data-heavy web applications across cybersecurity, e-commerce, and SaaS.*
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🔐 Spent **8 years at Anomali** building enterprise cybersecurity interfaces — including AI-powered dashboards and a full AngularJS → React/TypeScript migration
-- 🛒 Currently building **B2B WooCommerce & Shopify platforms** at Teilur, owning the full stack from UI to backend integrations
+- 🛒 Built **B2B WooCommerce & Shopify platforms** at Teilur, owning the full stack from UI to backend integrations
 - 🤖 Integrated **Copilot AI and Claude AI** into production workflows — and built Python APIs when there was no backend engineer available
 - 🌎 Worked with **US-based and international teams** throughout my entire career
 - 📊 Passionate about turning complex data into interfaces that people actually understand
@@ -112,11 +112,3 @@
 
 🇨🇴 **Spanish** — Native  
 🇺🇸 **English** — Professional working proficiency · C2 Reading & Listening ([EF Set certified](https://cert.efset.org/KSKYwN))
-
----
-
-<div align="center">
-
-*Open to Senior Frontend, Full Stack, and Technical Lead roles — remote, hybrid, or on-site in Medellín.*
-
-</div>
